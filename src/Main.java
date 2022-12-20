@@ -8,5 +8,4 @@ public class Main {
         int totalMiles = ticket / oneMileRub;
         System.out.println(totalMiles + " - Это Ваши бонусные мили. Спасибо за покупку!");
         }
-
     }
